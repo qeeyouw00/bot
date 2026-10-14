@@ -7,8 +7,8 @@ import requests
 
 # ----------------- ⚠️ 여워의 정보 입력하는 곳 -----------------
 # Railway 환경 변수(Variables)에 넣어두거나, 여기에 직접 적어줘도 돼!
-TOKEN = os.environ.get("TELEGRAM_TOKEN", "8135504269:AAFIHjvP5t3sdna2N2pL0_PI3pxyPHDnyrM")
-CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "8809250087")
+TOKEN = os.environ.get("TELEGRAM_TOKEN", "여기에_토큰_넣기")
+CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "여기에아이디_넣기")
 OPEN_CHAT_URL = "https://open.kakao.com/o/sGAHKZli"
 # -------------------------------------------------------------
 
